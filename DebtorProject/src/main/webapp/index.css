@@ -1,0 +1,41 @@
+body
+{
+  text-align: center;
+  font-family: "Segoe UI", Arial, sans-serif;
+  /*background-image: url("C:/Users/Work/Downloads/bg3.jpg");*/
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.clogin
+{
+  float: left;
+  padding-left: 20%;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.alogin
+{
+  float: right;
+  padding-right: 20%;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.vl
+{
+  border-right: 5px solid black;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 150px;
+}
+
+.newuser
+{
+  font-weight: bold;
+  font-size: 20px;
+}
